@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment[en_GB]=
 Comment=
-Exec=/home/harry/Documents/calendariconupdate.sh
+Exec=sh -c '"$HOME/.scripts/calendariconupdate.sh"'
 GenericName[en_GB]=
 GenericName=
 Icon=application-x-shellscript
