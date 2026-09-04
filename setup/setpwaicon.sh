@@ -2,7 +2,7 @@
 
 # Set paths using $HOME for user directory expansion
 SEARCH_DIR="$HOME/.local/share/applications"
-NEW_ICON="$HOME/Pictures/calendar.png"
+NEW_ICON="$HOME/Pictures/.icons/calendar.png"
 
 # Verify the replacement image exists first
 if [ ! -f "$NEW_ICON" ]; then
